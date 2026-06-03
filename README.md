@@ -36,4 +36,4 @@
 # Checkout Section
 ![Checkout Page](screenshots/Check-out%20Page.png)
 
-<h1> Dev - JavaLuxe </h1>
+<h1> Dev - JavaLuxe Team </h1>
